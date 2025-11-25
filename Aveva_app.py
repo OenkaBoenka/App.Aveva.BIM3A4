@@ -48,4 +48,4 @@ st.divider()
 st.subheader("🚀 Aan de slag")
 if st.button("Klik hier als je klaar bent om te starten"):
     st.balloons()
-    st.success("Laten we beginnen!)
+    st.success("Laten we beginnen!")
